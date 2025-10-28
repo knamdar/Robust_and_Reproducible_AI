@@ -14,6 +14,9 @@ Tutorial materials for the IEEE-EMBS International Conference on Biomedical and 
 - `Presentation/` — slide decks and figures used during the tutorial.  
 - `LICENSE` — MIT License for the tutorial assets.
 
+## Watch the Recordings
+[![Watch the video](https://img.youtube.com/vi/UVEHK2chypE/maxresdefault.jpg)](https://youtu.be/UVEHK2chypE)
+
 ## Getting Started
 1. Clone or download this repository to your local machine.  
 2. Follow the notebooks in order.  
